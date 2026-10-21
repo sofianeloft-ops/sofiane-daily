@@ -1,9 +1,17 @@
 # Sofiane Daily Command
 
-Dashboard personnel (Salat, tâches, planning, sport).
+Dashboard personnel en production.
 
-## iPhone 16 Pro Max
+## iPhone
 
-1. Ouvre le site dans **Safari**
-2. Bouton **Partager** → **Sur l'écran d'accueil**
-3. Ouvre l'app comme une application native
+1. Ouvre le site dans Safari
+2. Partager → Sur l'écran d'accueil
+
+## Fonctions
+
+- Horaires de prière Algiers (API live)
+- Boutons Salat avec lumière
+- Tâches / Planning / Sport
+- Rappels obligatoires
+- Thèmes, polices, taille texte
+- Recherche
